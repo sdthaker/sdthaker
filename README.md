@@ -1,9 +1,10 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sdthaker.visitor-badge)
+
 Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to code. Currently having a year of experience in developing basic applications. Looking forward to expand my knowledge as I learn new languages and tools.
 
 * Currently working on `JavaScript` & `C++` based projects using a range of frameworks.
 * Currently learning `JavaScript`(`node.js`, `express.js`, `react.js`, `angular.js` and other popular frameworks), `C++`, `Java`, `MySQL`.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sdthaker.visitor-badge)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-thaker/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white&link=mailto:thakersoham3@gmail.com)](mailto:thakersoham3@gmail.com)
 
@@ -42,7 +43,6 @@ Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-667881?style=plastic&logo=replit&logoColor=white)
 ![Glitch](https://img.shields.io/badge/Glitch-3333FF?style=plastic&logo=glitch&logoColor=white)
-
 
 <details>
   <summary> ⚡ GitHub Stats</summary>
