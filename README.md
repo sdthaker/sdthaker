@@ -33,7 +33,6 @@ Hi 👋, I am an enthusiastic intermediate developer who loves to code. Currentl
 
 ### * IDEs
 
-//add visual studio
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
 ![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=plastic&logo=glitch&logoColor=white)
 
