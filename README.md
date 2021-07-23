@@ -15,12 +15,12 @@ Hi 👋, I am an enthusiastic intermediate developer who loves to code. Currentl
 
 ### * Frameworks
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+[//]: # "![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)"
+[//]: # "![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)"
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)
 ![Express.JS](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white)
+[//]: # "![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)"
+[//]: # "![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white)"
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white)
 
 ### * Databases:
@@ -28,14 +28,16 @@ Hi 👋, I am an enthusiastic intermediate developer who loves to code. Currentl
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
 
-### * Cloud:
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
+
+[//]: # "### * Cloud:
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)"
 
 ### * IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
-![Glitch](https://img.shields.io/badge/Glitch-3333FF?style=plastic&logo=glitch&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-667881?style=plastic&logo=replit&logoColor=white)
+![Glitch](https://img.shields.io/badge/Glitch-3333FF?style=plastic&logo=glitch&logoColor=white)
 
 
 <details>
