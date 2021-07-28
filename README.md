@@ -27,7 +27,7 @@ Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to
 ![Express.JS](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![SQL Server Management Studio](https://img.shields.io/badge/MS_SQL_Server_Management_Studio-FF9E0F?style=plastic&logo=MSSQLServerManagement&logoColor=white)
+![SQL Server Management Studio](https://img.shields.io/badge/SQL_Server_Management_Studio-FF9E0F?style=plastic&logo=MSSQLServerManagement&logoColor=white)
 
 ### * Databases:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
