@@ -33,6 +33,8 @@ Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=plastic&logo=redis&logoColor=white)
+
 
 [//]: # "### * Cloud:
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)"
