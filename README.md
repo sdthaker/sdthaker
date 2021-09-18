@@ -21,8 +21,8 @@ Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to
 
 [//]: # "![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)"
 [//]: # "![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)"
-[//]: # "![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)"
-[//]: # "![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white)"
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)
 ![Express.JS](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
@@ -40,9 +40,7 @@ Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white)
 
-
 ### * IDEs:
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-667881?style=plastic&logo=replit&logoColor=white)
