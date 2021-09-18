@@ -36,8 +36,10 @@ Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=sequelize&logoColor=white)
 
-[//]: # "### * Cloud:
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)"
+### * Cloud:
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white)
+
 
 ### * IDEs:
 
