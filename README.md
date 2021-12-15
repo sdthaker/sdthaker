@@ -3,7 +3,7 @@
 Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to code. Currently having a year of experience in developing basic applications. Looking forward to expand my knowledge as I learn new languages and tools.
 
 * Currently working on `JavaScript` & `C++` based projects using a range of frameworks.
-* Currently learning `JavaScript` ( `node.js`, `react.js`, and `angular.js`) & `Java` languages.
+* Currently learning `JavaScript` (`node.js`, `react.js`, and `angular.js`) & `Java` languages.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-thaker/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white&link=mailto:thakersoham3@gmail.com)](mailto:thakersoham3@gmail.com)
