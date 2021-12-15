@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sdthaker.visitor-badge)
 
-Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to code. Currently having a year of experience in developing basic applications. Looking forward to expand my knowledge as I learn new languages and tools.
+Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to code. Currently having a year of experience in developing applications. Looking forward to expand my knowledge as I learn new languages and tools.
 
 * Currently working on `JavaScript` & `C++` based projects using a range of frameworks.
 * Currently learning `JavaScript` (`node.js`, `react.js`, and `angular.js`) & `Java` languages.
