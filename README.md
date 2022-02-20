@@ -10,7 +10,7 @@ Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to
 
 ### * Languages:
 
-[//]: # "![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)"
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
