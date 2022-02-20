@@ -40,6 +40,8 @@ Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to
 ### * Cloud:
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/GithubPages-222222?style=plastic&logo=githubpages&logoColor=white)
 
 ### * IDEs:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visualstudiocode&logoColor=white)
