@@ -42,13 +42,13 @@ Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
 ![Vercel](https://img.shields.io/badge/GithubPages-222222?style=plastic&logo=githubpages&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=white)
 
 ### * IDEs:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-667881?style=plastic&logo=replit&logoColor=white)
 ![Glitch](https://img.shields.io/badge/Glitch-3333FF?style=plastic&logo=glitch&logoColor=white)
-![StackBlitz](https://img.shields.io/badge/StackBlitz-3333FF?style=plastic&logo=stackblitz&logoColor=white)
 
 <details>
   <summary> ⚡ GitHub Stats</summary>
