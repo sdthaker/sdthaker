@@ -47,7 +47,7 @@ Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to
 ### * IDEs:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white)
-![IntelliJ_Idea](https://img.shields.io/badge/IntellijIdea-000000?style=plastic&logo=intellijidea&logoColor=white)
+![IntelliJ_Idea](https://img.shields.io/badge/Intellij_Idea-000000?style=plastic&logo=intellijidea&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-667881?style=plastic&logo=replit&logoColor=white)
 ![Glitch](https://img.shields.io/badge/Glitch-3333FF?style=plastic&logo=glitch&logoColor=white)
 
