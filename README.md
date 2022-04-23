@@ -48,6 +48,7 @@ Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-667881?style=plastic&logo=replit&logoColor=white)
 ![Glitch](https://img.shields.io/badge/Glitch-3333FF?style=plastic&logo=glitch&logoColor=white)
+![StackBlitz](https://img.shields.io/badge/StackBlitz-3333FF?style=plastic&logo=stackblitz&logoColor=white)
 
 <details>
   <summary> ⚡ GitHub Stats</summary>
