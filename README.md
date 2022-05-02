@@ -17,6 +17,7 @@ Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to
 ![JavaScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white)
 
 ### * Frameworks/Libraries/Applications:
 
