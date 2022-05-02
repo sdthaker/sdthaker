@@ -1,9 +1,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sdthaker.visitor-badge)
 
-Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to code. Currently having a year of experience in developing applications. Looking forward to expand my knowledge as I learn new languages and tools.
+Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to code. Currently having 2 years of experience in developing applications. Looking forward to expand my knowledge as I learn new languages and tools.
 
-* Currently working on `JavaScript` & `C++` & `Java` based projects using a range of frameworks.
-* Currently learning `JavaScript`/`TypeScript` (`Node.js`, `React`, and `Angular`).
+* Currently working on `iOS` based projects.
+* Currently learning `Swift` & `SwiftUI`.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-thaker/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white&link=mailto:thakersoham3@gmail.com)](mailto:thakersoham3@gmail.com)
@@ -18,7 +18,7 @@ Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 
-### * Frameworks/Applications:
+### * Frameworks/Libraries/Applications:
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
@@ -29,6 +29,9 @@ Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![SQL Server Management Studio](https://img.shields.io/badge/SQL_Server_Management_Studio-FF9E0F?style=plastic&logo=MSSQLServerManagement&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
+![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white)
 
 ### * Databases:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
