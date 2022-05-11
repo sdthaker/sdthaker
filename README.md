@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sdthaker.visitor-badge)
 
-Hi 👋, myself ***Soham***, an enthusiastic intermediate developer who loves to code. Currently having 2 years of experience in developing applications. Looking forward to expand my knowledge as I learn new languages and tools.
+Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, myself ***Soham***, an enthusiastic intermediate developer who loves to code. Currently having 2 years of experience in developing applications. Looking forward to expand my knowledge as I learn new languages and tools.
 
 * Currently working on `iOS` based projects.
 * Currently learning `Swift` & `SwiftUI`.
