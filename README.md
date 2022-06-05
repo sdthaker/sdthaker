@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sdthaker.visitor-badge)
 
-Hello 👋🏻, myself ***Soham***, situated in Toronto, an enthusiastic intermediate developer who loves to code. Currently having 2 years of experience in developing applications. Looking forward to expand my knowledge as I learn new languages and tools.
+Hello 👋🏻, myself ***Soham***, located in Toronto, an enthusiastic intermediate developer who loves to code. Currently having 2 years of experience in developing applications. Looking forward to expand my knowledge as I learn new languages and tools.
 
 * Currently working on `iOS` based projects.
 * Currently learning `Swift` & `SwiftUI`.
