@@ -1,3 +1,5 @@
+<img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" title="Gif" alt="Gif">
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sdthaker.visitor-badge)
 
 Hello 👋🏻, myself ***Soham***, located in Toronto, an enthusiastic intermediate developer who loves to code. Currently having 2 years of experience in developing applications. Looking forward to expand my knowledge as I learn new languages and tools.
