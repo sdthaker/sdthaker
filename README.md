@@ -49,6 +49,7 @@ Hello 👋🏻, myself ***Soham***, located in Toronto, an enthusiastic intermed
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/Github_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### * IDEs:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
