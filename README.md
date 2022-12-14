@@ -65,6 +65,11 @@ Hello 👋🏻, myself ***Soham***, located in Toronto, an enthusiastic intermed
 ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![Glitch](https://img.shields.io/badge/Glitch-3333FF?style=for-the-badge&logo=glitch&logoColor=white)
 
+### * UI/UX Design:
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
 <details>
   <summary> ⚡ GitHub Stats</summary>
   <img align="left" alt="Soham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sdthaker&show_icons=true&hide_border=true" />
