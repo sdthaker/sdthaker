@@ -36,8 +36,8 @@ Hello 👋🏻, myself ***Soham***, located in Toronto, an enthusiastic intermed
 ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Jira_Software](https://img.shields.io/badge/JIRA_Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=jirasoftware&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=jirasoftware&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 
 ### * Databases:
