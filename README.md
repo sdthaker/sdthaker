@@ -8,7 +8,7 @@ Hello 👋🏻, myself ***Soham***, located in Toronto, an enthusiastic intermed
 * Currently learning `C#`, `Xamarin`, `Ionic` & `React Native` to develop awesome mobile applications.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soham-thaker/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thakersoham3@gmail.com)](mailto:thakersoham3@gmail.com)
+<!--- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thakersoham3@gmail.com)](mailto:thakersoham3@gmail.com) -->
 
 ### * Languages:
 
