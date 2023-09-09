@@ -4,7 +4,7 @@
 
 Hello 👋🏻, myself ***Soham***, located in Toronto, an enthusiastic intermediate developer who loves to code. Currently having 3+ years of experience in developing applications. Looking forward to expand my knowledge as I learn new languages and tools.
 
-* Working on Full Stack Web Projects that involve `MERN Stack`.
+* Working on Full Stack Web Projects that involve `MERN` Stack.
 * Currently learning Cloud, System Design & Software Architecture/Infrastructure to expand my knowledge.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soham-thaker/)
