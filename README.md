@@ -2,10 +2,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sdthaker.visitor-badge)
 
-Hello 👋🏻, myself ***Soham***, located in Toronto, an enthusiastic intermediate developer who loves to code. Currently having 2+ years of experience in developing applications. Looking forward to expand my knowledge as I learn new languages and tools.
+Hello 👋🏻, myself ***Soham***, located in Toronto, an enthusiastic intermediate developer who loves to code. Currently having 3+ years of experience in developing applications. Looking forward to expand my knowledge as I learn new languages and tools.
 
 * Working on Full Stack Web Projects that involve `MERN Stack`.
-* Currently learning `C#`, `Xamarin`, `Ionic` & `React Native` to develop awesome mobile applications.
+* Currently learning Cloud, System Design & Software Architecture/Infrastructure to expand my knowledge.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soham-thaker/)
 <!--- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thakersoham3@gmail.com)](mailto:thakersoham3@gmail.com) -->
