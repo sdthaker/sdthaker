@@ -7,9 +7,6 @@ Hello 👋🏻, myself ***Soham***, located in Toronto, an enthusiastic intermed
 * Working on Full Stack Web Projects that involve `MERN` Stack.
 * Currently learning Cloud, System Design & Software Architecture/Infrastructure to expand my knowledge.
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soham-thaker/)
-<!--- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thakersoham3@gmail.com)](mailto:thakersoham3@gmail.com) -->
-
 ### * Languages:
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
